@@ -1,0 +1,22 @@
+{
+  "name": "test01",
+  "version": "0.0.1",
+  "description": "test app https://www.youtube.com/watch?v=6ZDFEO1Nt68",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinonharush/test01.git"
+  },
+  "keywords": [
+    "test01"
+  ],
+  "author": "Yinon Harush <yinonharush@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yinonharush/test01/issues"
+  },
+  "homepage": "https://github.com/yinonharush/test01#readme"
+}
